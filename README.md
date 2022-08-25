@@ -14,6 +14,7 @@ Optimize the model using appropriate techniques
 Generate a set of insights and recommendations that will help the company
 
 Data Dictionary
+
 • employeeid: Unique ID for the employee 
 
 • department: Department of employee 
