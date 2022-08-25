@@ -4,12 +4,22 @@ So this time HR team wants to utilize the stored data to make a model, that will
 Need to come up with a model that will help the HR team to predict if a person is eligible for promotion or not.
 
 Objective:
+
 Explore and visualize the dataset.
+
 Build a classification model to predict if the customer has a higher probability of getting a promotion
+
 Optimize the model using appropriate techniques
+
 Generate a set of insights and recommendations that will help the company
+
 Data Dictionary
-• employeeid: Unique ID for the employee • department: Department of employee • region: Region of employment (unordered) • education: Education Level • gender: Gender of Employee • recruitmentchannel: Channel of recruitment for employee
+• employeeid: Unique ID for the employee 
+• department: Department of employee 
+• region: Region of employment (unordered) 
+• education: Education Level 
+• gender: Gender of Employee 
+• recruitmentchannel: Channel of recruitment for employee
 • no_ of_ trainings: no of other trainings completed in the previous year on soft skills, technical skills, etc.
 • age: Age of Employee
 • previous_ year_ rating: Employee Rating for the previous year
